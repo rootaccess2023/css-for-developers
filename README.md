@@ -9,6 +9,7 @@ This repository contains my notes, exercises, and projects from Josh Comeau's "C
 
 ## 🗂️ Module Progress
 
-| Module        | Topic              | Status         | Folder Link                                                                | Key Concepts Learned                    |
-| ------------- | ------------------ | -------------- | -------------------------------------------------------------------------- | --------------------------------------- |
-| **Module 00** | Fundamentals Recap | 🟡 In Progress | [📁 module-00-fundamentals-recap](./modules/module-00-fundamentals-recap/) | CSS Selectors, Combinators, Specificity |
+| Module        | Topic              | Status         | Folder Link                                                                | Key Concepts Learned                       |
+| ------------- | ------------------ | -------------- | -------------------------------------------------------------------------- | ------------------------------------------ |
+| **Module 00** | Fundamentals Recap | Completed      | [📁 module-00-fundamentals-recap](./modules/module-00-fundamentals-recap/) | CSS Selectors, Combinators, Specificity    |
+| **Module 01** | Rendering Logic I  | 🟡 In Progress | [📁 module-01-rendering-logic-i](./modules/module-01-rendering-logic-i/)   | Box Model, Margin, Padding Border, Content |
